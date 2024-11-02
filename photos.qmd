@@ -32,7 +32,7 @@ Below are some photos I've taken of interesting things and places while in Centr
 
 ![A concrete column from Astana’s stop-start light rail project, overlooked by Ak Orda (the presidential mansion, right), the parliament (centre), and the sovereign wealth fund offices (the gold tower)](photos_compressed/lrt_astana.jpeg){group="kazakhstan"}
 
-![The dome of the huge Palace of Peace and Reconciliation a 62 metre high pyramid designed by Foster and Partners to host Nazarbayev's Congress of Leaders of World and Traditional Religions, Astana, Kazakstan](photos_compressed/peace_astana.jpeg){group="kazakhstan"}
+![The dome of the huge Palace of Peace and Reconciliation, a 62 metre high pyramid designed by Foster and Partners to host Nazarbayev's Congress of Leaders of World and Traditional Religions, Astana, Kazakstan](photos_compressed/peace_astana.jpeg){group="kazakhstan"}
 
 ![Nazarbayev is the globally recognised leader, says his Museum of the First President, now housed in the same huge building as his library, Astana, Kazakhstan](photos_compressed/mus_astana.jpeg){group="kazakhstan"}
 :::
@@ -40,7 +40,7 @@ Below are some photos I've taken of interesting things and places while in Centr
 ### Elsewhere
 
 ::: {layout-ncol="3"}
-![Karaganda has exemplary order and high education, proclaims these recently re-lit signs near the central station, Karaganda, Kazakhstan](photos_compressed/karaganda.jpeg){group="kazakhstan"}
+![Karaganda has exemplary order and high culture, proclaims these recently re-lit signs near the central station, Karaganda, Kazakhstan](photos_compressed/karaganda.jpeg){group="kazakhstan"}
 
 ![Miners' Glory, a monument erected in 1974 in celebration of the oblast's massive coal production, Karaganda, Kazakhstan](photos_compressed/miners_glory.jpeg){group="kazakhstan"}
 
@@ -50,7 +50,7 @@ Below are some photos I've taken of interesting things and places while in Centr
 
 ![Peace to the world, Aktobe, Kazakhstan](photos_compressed/peace_aktobe.jpeg){group="kazakhstan"}
 
-![Murals to some of the area's many women who became hereos of the Great Patriotic War, Aktau, Kazakhstan](photos_compressed/aktau.jpeg){group="kazakhstan"}
+![Murals to some of the area's many women who became hereoes of the Great Patriotic War, Aktau, Kazakhstan](photos_compressed/aktau.jpeg){group="kazakhstan"}
 :::
 
 ## Kyrgyzstan
@@ -111,8 +111,6 @@ Below are some photos I've taken of interesting things and places while in Centr
 ![From 2010 to May 2011, this was the tallest flagpole in the world, Baku, Azerbaijan](photos_compressed/flag_baku.jpeg){group="georgia"}
 
 ![The 15th-century Palace of the Shirvanshahs, in the old city of Baku, Azerbaijan](photos_compressed/palace_baku.jpeg){group="georgia"}
-
-![Zaha Hadid's 2012 Heydar Aliyev Centre, Baku, Azerbaijan](photos_compressed/aliyev_centre.jpeg){group="georgia"}
 
 ![Zaha Hadid's 2012 Heydar Aliyev Centre, Baku, Azerbaijan](photos_compressed/aliyev_centre.jpeg){group="georgia"}
 
