@@ -9,6 +9,8 @@ website:
         text: Home
       - href: cv.qmd
         text: My CV
+      - href: photos.qmd
+        text: Photos
 
 format:
   html:
