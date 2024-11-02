@@ -11,6 +11,12 @@ website:
         text: My CV
       - href: photos.qmd
         text: Photos
+    right:
+      - icon: twitter
+        href: https://x.com/_TomHazell
+      - icon: github
+        href: https://github.com/T-Hazell
+
 
 format:
   html:
