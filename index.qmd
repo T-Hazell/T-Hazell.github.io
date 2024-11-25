@@ -12,9 +12,8 @@ about:
       href: https://github.com/T-Hazell
     - icon: mortarboard-fill
       text: Departmental page
-      href: https://www.politics.ox.ac.uk/person/thomas-hazel
+      href: https://www.politics.ox.ac.uk/person/thomas-hazell
 ---
-
 
 I am a DPhil (PhD) student in politics at the University of Oxford's [Department of Politics and International Relations](https://www.politics.ox.ac.uk/). My work, supervised by [Dr Katerina Tertytchnaya](https://katerinatertytchnaya.com/), focuses on politics in Central Asia.
 
@@ -23,4 +22,3 @@ My doctoral work considers the issue of subnational delegation. Who do national 
 I am currently a research assistant on Dr Katerina Tertytchnaya's ESRC funded project on [non-violent repression](https://www.nonviolent-repression.co.uk/). Previously, I worked as a research assistant on the UKRI/Horizon Europe-funded [AUTHLIB project](https://www.authlib.eu/), Professor Lenka Buštíková's work on illiberalism in Ukraine, and the [Oxford University Economic Recovery Project](https://recovery.smithschool.ox.ac.uk/tracking/) at the Smith School of Enterprise and the Environment.
 
 Outside of academia, I have experience providing open source methods and Russian-language consulting for research and analysis projects related to the former Soviet Union. Please [contact me](mailto:thomas.hazell@politics.ox.ac.uk) to discuss my availability.
-
