@@ -2,3 +2,7 @@
 /_site/
 .Rproj.user
 /photos/
+/.Rproj.user
+*.pper
+*.json
+.Rproj.user/645B124A/pcs/source-pane.pper
