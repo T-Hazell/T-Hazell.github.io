@@ -13,12 +13,26 @@ about:
     - icon: mortarboard-fill
       text: Departmental page
       href: https://www.politics.ox.ac.uk/person/thomas-hazell
+    - icon: inbox-fill
+      text: Contact me
+      href: mailto:thomas.hazell@politics.ox.ac.uk
+toc: false
 ---
 
-I am a DPhil (PhD) student in politics at the University of Oxford's [Department of Politics and International Relations](https://www.politics.ox.ac.uk/). My work, supervised by [Dr Katerina Tertytchnaya](https://katerinatertytchnaya.com/), focuses on politics in Central Asia.
+I am a DPhil (PhD) candidate in politics at the University of Oxford's [Department of Politics and International Relations](https://www.politics.ox.ac.uk/). My work, supervised by [Dr Katerina Tertytchnaya](https://katerinatertytchnaya.com/), focuses on politics in Central Asia.
 
-My doctoral work considers the issue of subnational delegation. Who do national elites share power with? How do they judge their subordinates' abilities? My thesis approaches this question through studying akims (appointed governors and mayors) in Kazakhstan. I use computational techniques to create and code new, detailed, and large datasets on political elites' biographies and careers. I use this data to examine just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council studentship awarded by the Grand Union Doctoral Training Programme.
+My doctoral work examines local governance, bureaucracy, and elite politics in authoritarian contexts. I use computational techniques to create and code new, detailed, and large datasets on elites' and bureaucrats' careers in Kazakhstan. With this data, I present evidence on just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council (UK government) studentship awarded by the Grand Union Doctoral Training Programme.
+
+## Current projects
+
+In some of my doctoral research, I study how mid-ranking bureaucrats strategically use appointment powers to overcome delegation problems and build patronal ‘teams’ of loyal subordinates. Focusing on district bureaucrats in Kazakhstan, this project collects a large corpus of bureaucrats' biographies, which I analyse with natural language processing tools, and new detailed data on bureaucrats' use of appointment powers.
+
+Another paper examines subnational delegation. Who do national elites share power with? How do they judge their subordinates’ abilities? I collect data on regional governors to show how Kazakhstan's regime has manipulated their careers to build loyalty to the centre.
+
+Finally, with [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Eleonora Minaeva](https://eleonora-minaeva.github.io/) at the European University Institute, I am working on a [project examining the impact of introducing local elections on Kazakhstan's local elites](https://www.eui.eu/research-hub?id=local-elections-and-elite-management-in-authoritarian-regime-evidence-from-kazakhstan).
 
 I am currently a research assistant on Dr Katerina Tertytchnaya's ESRC funded project on [non-violent repression](https://www.nonviolent-repression.co.uk/). Previously, I worked as a research assistant on the UKRI/Horizon Europe-funded [AUTHLIB project](https://www.authlib.eu/), Professor Lenka Buštíková's work on illiberalism in Ukraine, and the [Oxford University Economic Recovery Project](https://recovery.smithschool.ox.ac.uk/tracking/) at the Smith School of Enterprise and the Environment.
+
+## Other work
 
 Outside of academia, I have experience providing open source methods and Russian-language consulting for research and analysis projects related to the former Soviet Union. Please [contact me](mailto:thomas.hazell@politics.ox.ac.uk) to discuss my availability.
