@@ -142,15 +142,28 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-mortarboard-fill"></i>
      <span class="about-link-text">Departmental page</span>
   </a>
+  <a href="mailto:thomas.hazell@politics.ox.ac.uk" class="about-link" rel="" target="">
+    <i class="bi bi-inbox-fill"></i>
+     <span class="about-link-text">Contact me</span>
+  </a>
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I am a DPhil (PhD) student in politics at the University of Oxford’s <a href="https://www.politics.ox.ac.uk/">Department of Politics and International Relations</a>. My work, supervised by <a href="https://katerinatertytchnaya.com/">Dr Katerina Tertytchnaya</a>, focuses on politics in Central Asia.</p>
-<p>My doctoral work considers the issue of subnational delegation. Who do national elites share power with? How do they judge their subordinates’ abilities? My thesis approaches this question through studying akims (appointed governors and mayors) in Kazakhstan. I use computational techniques to create and code new, detailed, and large datasets on political elites’ biographies and careers. I use this data to examine just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council studentship awarded by the Grand Union Doctoral Training Programme.</p>
+<p>I am a DPhil (PhD) candidate in politics at the University of Oxford’s <a href="https://www.politics.ox.ac.uk/">Department of Politics and International Relations</a>. My work, supervised by <a href="https://katerinatertytchnaya.com/">Dr Katerina Tertytchnaya</a>, focuses on politics in Central Asia.</p>
+<p>My doctoral work examines local governance, bureaucracy, and elite politics in authoritarian contexts. I use computational techniques to create and code new, detailed, and large datasets on elites’ and bureaucrats’ careers in Kazakhstan. With this data, I present evidence on just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council (UK government) studentship awarded by the Grand Union Doctoral Training Programme.</p>
+<section id="current-projects" class="level2">
+<h2 data-anchor-id="current-projects">Current projects</h2>
+<p>In some of my doctoral research, I study how mid-ranking bureaucrats strategically use appointment powers to overcome delegation problems and build patronal ‘teams’ of loyal subordinates. Focusing on district bureaucrats in Kazakhstan, this project collects a large corpus of bureaucrats’ biographies, which I analyse with natural language processing tools, and new detailed data on bureaucrats’ use of appointment powers.</p>
+<p>Another paper examines subnational delegation. Who do national elites share power with? How do they judge their subordinates’ abilities? I collect data on regional governors to show how Kazakhstan’s regime has manipulated their careers to build loyalty to the centre.</p>
+<p>Finally, with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and <a href="https://eleonora-minaeva.github.io/">Eleonora Minaeva</a> at the European University Institute, I am working on a <a href="https://www.eui.eu/research-hub?id=local-elections-and-elite-management-in-authoritarian-regime-evidence-from-kazakhstan">project examining the impact of introducing local elections on Kazakhstan’s local elites</a>.</p>
 <p>I am currently a research assistant on Dr Katerina Tertytchnaya’s ESRC funded project on <a href="https://www.nonviolent-repression.co.uk/">non-violent repression</a>. Previously, I worked as a research assistant on the UKRI/Horizon Europe-funded <a href="https://www.authlib.eu/">AUTHLIB project</a>, Professor Lenka Buštíková’s work on illiberalism in Ukraine, and the <a href="https://recovery.smithschool.ox.ac.uk/tracking/">Oxford University Economic Recovery Project</a> at the Smith School of Enterprise and the Environment.</p>
+</section>
+<section id="other-work" class="level2">
+<h2 data-anchor-id="other-work">Other work</h2>
 <p>Outside of academia, I have experience providing open source methods and Russian-language consulting for research and analysis projects related to the former Soviet Union. Please <a href="mailto:thomas.hazell@politics.ox.ac.uk">contact me</a> to discuss my availability.</p>
 
 
+</section>
 </main></div>
 </div>
  <!-- /main -->
@@ -228,7 +241,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/T-Hazell\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
