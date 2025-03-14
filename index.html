@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,10 +102,9 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://x.com/_TomHazell"> <i class="bi bi-twitter" role="img">
-</i> 
-<span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://bsky.app/profile/thomashazell.bsky.social"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/T-Hazell"> <i class="bi bi-github" role="img">
@@ -138,6 +138,9 @@ ul.task-list li input[type="checkbox"] {
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
   </a>
+  <a href="https://bsky.app/profile/thomashazell.bsky.social" class="about-link" rel="" target="">
+     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Icon bluesky from fa6-brands Iconify.design set."></iconify-icon> Bluesky</span>
+  </a>
   <a href="https://www.politics.ox.ac.uk/person/thomas-hazell" class="about-link" rel="" target="">
     <i class="bi bi-mortarboard-fill"></i>
      <span class="about-link-text">Departmental page</span>
@@ -153,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <p>My doctoral work examines local governance, bureaucracy, and elite politics in authoritarian contexts. I use computational techniques to create and code new, detailed, and large datasets on elites’ and bureaucrats’ careers in Kazakhstan. With this data, I present evidence on just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council (UK government) studentship awarded by the Grand Union Doctoral Training Programme.</p>
 <section id="current-projects" class="level2">
 <h2 data-anchor-id="current-projects">Current projects</h2>
-<p>In some of my doctoral research, I study how mid-ranking bureaucrats strategically use appointment powers to overcome delegation problems and build patronal ‘teams’ of loyal subordinates. Focusing on district bureaucrats in Kazakhstan, I use public procurement records to collect an original dataset of bureaucrats and their appointees, as well as a large corpus of bureaucrats’ biographies. An second paper examines subnational delegation. Who do national elites share power with? How do they judge their subordinates’ abilities? I collect biographic data on regional governors to show how Kazakhstan’s regime has manipulated their careers to build loyalty to the centre. Finally, with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and <a href="https://eleonora-minaeva.github.io/">Eleonora Minaeva</a> at the European University Institute, I am working on a <a href="https://www.eui.eu/research-hub?id=local-elections-and-elite-management-in-authoritarian-regime-evidence-from-kazakhstan">project examining the impact of introducing local elections on the make-up of Kazakhstan’s local elites</a>.</p>
+<p>In some of my doctoral research, I study how mid-ranking bureaucrats strategically use appointment powers to overcome delegation problems and build patronal ‘teams’ of loyal subordinates. Focusing on district bureaucrats in Kazakhstan, I use public procurement records to collect an original dataset of bureaucrats and their appointees, as well as a large corpus of bureaucrats’ biographies. A second paper examines subnational delegation. Who do national elites share power with? How do they judge their subordinates’ abilities? I collect biographic data on regional governors to show how Kazakhstan’s regime has manipulated their careers to build loyalty to the centre. Finally, with <a href="https://www.eui.eu/people?id=kirill-melnikov">Kirill Melnikov</a> and <a href="https://eleonora-minaeva.github.io/">Eleonora Minaeva</a> at the European University Institute, I am working on a <a href="https://www.eui.eu/research-hub?id=local-elections-and-elite-management-in-authoritarian-regime-evidence-from-kazakhstan">project examining the impact of introducing local elections on the make-up of Kazakhstan’s local elites</a>.</p>
 <p>I am currently a research assistant on Dr Katerina Tertytchnaya’s ESRC funded project on <a href="https://www.nonviolent-repression.co.uk/">non-violent repression</a>. Previously, I worked as a research assistant on the UKRI/Horizon Europe-funded <a href="https://www.authlib.eu/">AUTHLIB project</a>, Professor Lenka Buštíková’s work on illiberalism in Ukraine, and the <a href="https://recovery.smithschool.ox.ac.uk/tracking/">Oxford University Economic Recovery Project</a> at the Smith School of Enterprise and the Environment.</p>
 </section>
 <section id="other-work" class="level2">
@@ -239,7 +242,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/T-Hazell\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
