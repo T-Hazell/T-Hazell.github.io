@@ -12,8 +12,8 @@ website:
       - href: photos.qmd
         text: Photos
     right:
-      - icon: twitter
-        href: https://x.com/_TomHazell
+      - text: "{{< iconify fa6-brands:bluesky >}}"
+        href: https://bsky.app/profile/thomashazell.bsky.social
       - icon: github
         href: https://github.com/T-Hazell
       - icon: mortarboard-fill
