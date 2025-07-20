@@ -90,15 +90,15 @@ Below are some photos I've taken of interesting things and places while in Centr
 ## Georgia
 
 ::: {layout-ncol="3"}
-![Sprawling Tblisi, Georgia](photos_compressed/tblisi.jpeg){group="georgia"}
+![Sprawling Tbilisi, Georgia](photos_compressed/tblisi.jpeg){group="georgia"}
 
-![The TV tower, Tblisi, Georgia](photos_compressed/tv_tower.jpeg){group="georgia"}
+![The TV tower, Tbilisi, Georgia](photos_compressed/tv_tower.jpeg){group="georgia"}
 
-![2004's Holy Trinity Cathedral, Tblisi, Georgia](photos_compressed/trinity_tblisi.jpeg){group="georgia"}
+![2004's Holy Trinity Cathedral, Tbilisi, Georgia](photos_compressed/trinity_tblisi.jpeg){group="georgia"}
 
-![Worse-for-wear posters for a candidate from the ruling Georgian Dream, just by party HQ, Tblisi, Georgia](photos_compressed/georgian_dream.jpeg){group="georgia"}
+![Worse-for-wear posters for a candidate from the ruling Georgian Dream, just by party HQ, Tbilisi, Georgia](photos_compressed/georgian_dream.jpeg){group="georgia"}
 
-![A lesser-seen view of the imposing Mother of Georgia, Tblisi, Georgia](photos_compressed/mother_of_georgia.jpeg){group="georgia"}
+![A lesser-seen view of the imposing Mother of Georgia, Tbilisi, Georgia](photos_compressed/mother_of_georgia.jpeg){group="georgia"}
 
 ![The medieval fortress sits above the 1981-1985 Memorial of Georgian Warrior Heroes in Stalin's hometown, Gori, Georgia](photos_compressed/gori.jpeg){group="georgia"}
 
