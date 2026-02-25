@@ -2,9 +2,9 @@
 title: "CV"
 published-title: CV last updated
 engine: knitr
-date: 2025-09-09
+date: 2026-02-25
 cv:
-  pdf: "090925-ThomasHazellCV.pdf"
+  pdf: "250226-ThomasHazellCV.pdf"
 ---
 
 Please find the most recent copy of my CV below:
