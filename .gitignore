@@ -29,3 +29,5 @@ CV/ThomasHazellCV.log
 CV/ThomasHazellCV.out
 CV/ThomasHazellCV.synctex.gz
 CV/ThomasHazellCV.xdv
+**/*.quarto_ipynb
+_extensions/*
