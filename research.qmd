@@ -3,15 +3,15 @@ title: "Research"
 toc: True
 ---
 
-## Work-in-progress
+## Work-in-progress & thesis papers
 
 ### Personnel appointments in authoritarian bureaucracies
 
-> **Abstract:** Biased hiring by unelected managers undermines state capacity. Recent work focuses on who gets hired, not the conditions under which it takes place. I argue that, under weak rule of law, bureaucratic managers balance the potential rewards of hiring aligned subordinates with the risk of punishment for breaching civil service regulations. First, biased hiring should be most prominent in the early days of a manager's tenure, when the need to replace unknown staff is most urgent. Second, managers appoint more when they can draw on the protection of a senior patron. Third, unlike political patronage, appointments should be focused on senior roles. With new data on about 7,000 district bureaucrat appointments in Kazakhstan, I use two-way fixed effects designs to show that new managers quickly replace subordinates despite civil service regulations, that appointments decline after the departure of their boss, and that there are no equivalent effects for junior staff. The findings highlight how informal politics sustain biased hiring despite civil service reforms.
+> **Abstract:** Biased hiring by unelected managers undermines state capacity. Recent work focuses on who gets hired, not the conditions under which it takes place. I argue that, under weak rule of law, bureaucratic managers balance the potential rewards of hiring aligned subordinates with the risk of punishment for breaching civil service regulations. First, biased hiring should be most prominent in the early days of a manager's tenure, when the need to replace unknown staff is most urgent. Second, managers appoint more when they can draw on the protection of a senior patron. Third, unlike political patronage, appointments should be focused on senior roles. Using new data on thousands of district bureaucrat appointments in Kazakhstan---extracted from millions of public procurement contracts---I use two-way fixed effects designs to show that new managers quickly replace subordinates despite civil service regulations, that appointments decline after the departure of their boss, and that there are no equivalent effects for junior staff. The findings highlight how informal politics sustiain biased hiring in autocracies despite civil service reforms.
 
--   Presented at the Department of Political Science and International Relations, Nazarbayev University, Astana
--   Presented at PolEcon Almaty 2025
--   Presented at the APSG's 2025 Summer Conference on Authoritarian Politics
+- Presented at the Department of Political Science and International Relations, Nazarbayev University, Astana
+- Presented at PolEcon Almaty 2025
+- Presented at the APSG's 2025 Summer Conference on Authoritarian Politics
 
 ### Biased hiring and bureaucrats' behaviour
 
@@ -21,13 +21,13 @@ toc: True
 
 > **Abstract:** Which merits do autocrats care about when selecting officials? In some contexts, regimes prioritise economic competence and promote based on growth or unemployment figures. In other cases, political stability is more important. Officials are incentivised to improve turnout and the proregime vote. These effects may be conditional or---in many cases---performance may simply not matter for appointments. Work on autocratic meritocracy, nonetheless, should consider wider operationalisation of political merit, provide stronger evidence of merit not mattering, and study cases beyond China and Russia. I advance the literature using newly collected evidence on governors' career trajectories in Kazakhstan paired with economic, electoral, and protest data. I use an equivalence testing approach to provide strong evidence that economic merit---even exceptionally good performance---does not matter in this case, while good political performance can somewhat increase a governors' prospects of promotion. I contribute to work on promotion tournaments and performance incentives under autocracy, while presenting new data from an important but understudied case of hegemonic electoral autocracy.
 
--   Presented at EPSA 2025
+- Presented at EPSA 2025
 
 ### The Governance Effects of Local Elections in Autocracies: Evidence from a Natural Experiment in Kazakhstan
 
 With [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Eleonora Minaeva](https://eleonora-minaeva.github.io/)
 
-> **Abstract:** This study examines how political decentralization affects local governance in authoritarian settings, focusing on Kazakhstan’s 2021 reform that introduced direct elections of rural executives (akims). We exploit the staggered and quasi-random rollout of the reform to compare municipalities with elected and not-yet-elected akims. Leveraging newly available administrative data, we study local public procurement—a key area of public management where local akims retain discretion despite severe fiscal constraints. We find that elections neither increased the volume of goods and services delivered by akims nor improved the competitiveness of public procurement.
+> **Abstract:** This study examines whether political decentralization improves local governance in authoritarian settings. We analyze Kazakhstan's 2021 reform introducing direct elections of rural executives, exploiting its staggered and quasi-random rollout across municipalities. Using data on nearly one million procurement contracts and satellite nighttime luminosity data over an eight-year period (2018-2025), we assess the effects of elections on street lighting provision—an objective, locally salient public good. Contrary to accountability theory, elections produced minimal effects, suggesting that political decentralization alone may be insufficient to improve local service delivery without fiscal and administrative decentralization.
 
 ### Local Elections and Elite Management in Authoritarian Regimes: Evidence from Kazakhstan
 
@@ -35,10 +35,10 @@ With [Kirill Melnikov](https://www.eui.eu/people?id=kirill-melnikov) and [Eleono
 
 > **Abstract:** This study examines the introduction of local executive elections in Kazakhstan, where rural executives (*akim*s) were previously appointed through a centralized system. We analyze the impact of these elections on elite turnover and recruitment, leveraging a complete dataset of all subdistrict elections and a pilot study of akim biographies. Elections resulted in frequent leadership replacement. Nevertheless, we show that they did not result in inclusion of a broader group of local or the selection of more locally-embedded officials. The results suggest that elections may serve more to formalize the renewal of the same bureaucratic elite than to co-opt new groups or widen access to power.
 
--   Presented at MPSA 2025
+- Presented at MPSA 2025
 
 ### Shuffling to co-opt: Subnational governance, patronage, and political careers in Kazakhstan
 
 > **Abstract**: Why do autocrats 'shuffle' elites around positions? Existing work suggests this practice aims to boost performance, with underperforming officials more frequently rotated. Yet I show that in Kazakhstan there is no association between performance and rotation. Instead, I explain shuffling as a strategy of co-optation. Shuffling prevents some of the potential downsides of co-opting elites through state office by disrupting network formation and freeing up positions for junior cadre. At the same time, it keeps co-optation credible by reassuring most elites of their long-term seniority. To test this argument, I present a detailed biographic dataset of regional governors (*akim*s) in Kazakhstan between 1997 and 2022. Consistent with my argument, elites holding these posts are frequently shuffled to and from other senior positions. By contrast, there is a robust lack of association between regional socioeconomic measures and when a governor is rotated or dismissed. Sometimes, shuffling aims more at enhancing elites' loyalty than their performance.
 
--   Presented at MPSA 2025
+- Presented at MPSA 2025
