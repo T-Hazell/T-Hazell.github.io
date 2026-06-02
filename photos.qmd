@@ -35,6 +35,14 @@ Below are some photos I've taken of interesting things and places while in Centr
 ![The dome of the huge Palace of Peace and Reconciliation, a 62 metre high pyramid designed by Foster and Partners to host Nazarbayev's Congress of Leaders of World and Traditional Religions, Astana, Kazakstan](photos_compressed/peace_astana.jpeg){group="kazakhstan"}
 
 ![Nazarbayev is the globally recognised leader, says his Museum of the First President, now housed in the same huge building as his library, Astana, Kazakhstan](photos_compressed/mus_astana.jpeg){group="kazakhstan"}
+
+![Snowy Astana, at the entrance to NU off Turan](photos_compressed/astana_snow.jpeg){group="kazakhstan"}
+
+![A real life, running Astana LRT, less than three years after the photo above](photos_compressed/lrt_new_astana.jpeg){group="kazakhstan"}
+
+![Ak Orda and some ducks under stormy skies](photos_compressed/ak_orda_astana.jpeg){group="kazakhstan"}
+
+![Ready for social media](photos_compressed/bayterek_frame.jpeg){group="kazakhstan"}
 :::
 
 ### Elsewhere
@@ -119,4 +127,24 @@ Below are some photos I've taken of interesting things and places while in Centr
 ![A captured Armenian/Artsakh armoured people carrier looks over downtown in the grimly-named 'war trophies park', a collection of equipment taken during Azerbaijan's rapid advances during the 2020 Second Nagorno-Karabakh War, Baku, Azerbaijan](photos_compressed/war_trophy_park.jpeg){group="georgia"}
 
 ![A monument to the dead from Britain's lesser-known 'Dunsterforce', dispatched toward Ottoman-controlled Armenia in 1918 but which [ended up fighting alongside an improbable and changing mix of Bolsheviks, White Russians, Cossacks, and Armenians trying to prevent Ottoman control of Baku's oil](https://encyclopedia.1914-1918-online.net/article/dunsterforce-1-1/)](photos_compressed/brits_baku.jpeg){group="georgia"}
+:::
+
+## Armenia
+
+::: {layout-ncol="3"}
+![Memorial to the Armenian Genocide (Tsitsernakaberd), Yerevan](photos_compressed/tsitsernakaberd.jpeg){group="armenia"}
+
+![Mother Armenia, Yerevan](photos_compressed/mother_armenia.jpeg){group="armenia"}
+
+![Geometric flood defences in Areni](photos_compressed/areni_cave.jpeg){group="armenia"}
+
+![Fortress Smbataberd](photos_compressed/smbataberd.jpeg){group="armenia"}
+
+![The Alaverdi copper combine, in decline since independence and recently shut down](photos_compressed/alaverdi.jpeg){group="armenia"}
+
+![In an abandoned Pioneer camp, near Spitak](photos_compressed/spitak_mast.jpeg){group="armenia"}
+
+![The swimming pool at an abandoned Pioneer camp near Spitak](photos_compressed/spitak_pool.jpeg){group="armenia"}
+
+![Sanahin Monastery](photos_compressed/sanahin.jpeg){group="armenia"}
 :::
